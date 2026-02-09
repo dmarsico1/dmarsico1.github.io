@@ -20,8 +20,6 @@ author_profile: true
 * **Marsico, D. H. and Stechmann, S. N. (2020):** Expanding Grids for Efficient Cloud Dynamics Simulations Across Scales. *Math. Clim. Weather Forecast.* 6, 38-49
 * **Marsico, D. H., Smith, L. M. and Stechmann, S. N. (2019):** Energy decompositions for Moist Boussinesq and Anelastic Equations with Phase Changes. *Journal of the Atmospheric Sciences*, 76(11):3569-3587
 
----
-
 ## Talks and Presentations
 
 * **“Modal Interference Drives Madden-Julian Oscillation and Predictability”** AMS Annual Conference. Houston, Texas, January 2026
