@@ -12,10 +12,6 @@ main:
     url: "/"
   - title: "Papers and Talks"
     url: "/papers-and-talks/"
-  - title: "Teaching"
-    url: /teaching/
-  - title: "CV"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
